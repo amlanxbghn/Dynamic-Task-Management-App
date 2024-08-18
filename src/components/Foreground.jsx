@@ -46,7 +46,7 @@ function Foreground() {
                 />
                 <button 
                     type="submit"
-                    className="p-2 bg-blue-500 text-white rounded-r-lg hover:bg-blue-600 transition-colors"
+                    className="p-2 bg-blue-600 text-white rounded-r-lg hover:bg-blue-700 transition-colors"
                 >
                     Add Todo
                 </button>
